@@ -1,4 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\Experiment 1.obj" 
-TO ".\Objects\Experiment 1" 
-PRINT(".\Listings\Experiment 1.m51")
